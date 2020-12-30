@@ -1,0 +1,46 @@
+{
+  "_from": "verification-code",
+  "_id": "verification-code@1.0.0",
+  "_inBundle": false,
+  "_location": "/verification-code",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "verification-code",
+    "name": "verification-code",
+    "escapedName": "verification-code",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "author": {
+    "name": "Tony Williams."
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "nodemailer": "^6.4.16",
+    "uuid-token-generator": "^1.0.0"
+  },
+  "deprecated": false,
+  "description": "Send a verification code to confirm the user's address",
+  "keywords": [
+    "email",
+    "verification",
+    "email-verification",
+    "code",
+    "email-confirmation",
+    "mailing"
+  ],
+  "license": "BLKB",
+  "main": "index.js",
+  "name": "verification-code",
+  "scripts": {
+    "test": "test"
+  },
+  "version": "1.0.0"
+}
